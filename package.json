@@ -1,0 +1,28 @@
+{
+    "name": "assignment7",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "babel-node ./app.js",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Poly1581/CS590Assignment7.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Poly1581/CS590Assignment7/issues"
+    },
+    "homepage": "https://github.com/Poly1581/CS590Assignment7#readme",
+    "description": "",
+    "dependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset": "^1.1.7",
+        "babel-preset-env": "^1.7.0",
+        "express": "^5.1.0",
+        "jest": "^29.7.0"
+    }
+}
